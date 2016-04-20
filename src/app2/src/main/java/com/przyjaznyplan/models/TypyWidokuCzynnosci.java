@@ -6,9 +6,6 @@
  */
 package com.przyjaznyplan.models;
 
-/**
- * Created by chris on 28.12.14.
- */
 public enum TypyWidokuCzynnosci {
 
     advanced("zaawansowany"),

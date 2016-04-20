@@ -27,13 +27,6 @@ import com.przyjaznyplanDisplayer.mymodule.appmanager.Utils.RequestCodes;
 
 import java.util.List;
 
-/**
- * Browsing activities view class
- * Allows to browse and select acitvities
- *
- * @author Michał Smiatacz
- * @author mrwrob
- */
 public class PlanBrowseActivity extends Activity implements AdapterView.OnItemClickListener {
 
     private ActivityAdapter listAdapter;

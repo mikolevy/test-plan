@@ -11,9 +11,7 @@ import android.os.Environment;
 import java.io.File;
 import java.util.ArrayList;
 
-/**
- * Created by Chris on 7/24/2014.
- */
+
 public abstract class StructureConverter {
 
     public final static  String SD_CARD_ROOT =  Environment.getExternalStorageDirectory().toString();

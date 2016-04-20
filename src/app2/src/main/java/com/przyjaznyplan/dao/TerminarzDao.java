@@ -10,9 +10,6 @@ import android.database.sqlite.SQLiteDatabase;
 
 import com.przyjaznyplan.dto.TerminarzDto;
 
-/**
- * Created by Chris on 10/24/2014.
- */
 public class TerminarzDao extends AbstractDao<TerminarzDto> {
 
     public TerminarzDao(SQLiteDatabase db){

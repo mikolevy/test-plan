@@ -7,9 +7,6 @@
 
 package com.przyjaznyplan.sqlCreate;
 
-/**
- * Created by chris on 28.12.14.
- */
 public class UST_USER extends BaseSQL{
 
     public static final String TABLE_NAME = "UST_USER";

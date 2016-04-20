@@ -7,9 +7,6 @@
 
 package com.przyjaznyplan.models;
 
-/**
- * Created by chris on 28.12.14.
- */
 public class UserPreferences extends BaseModel {
 
 

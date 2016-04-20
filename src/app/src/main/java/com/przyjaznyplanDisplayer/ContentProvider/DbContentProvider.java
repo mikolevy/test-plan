@@ -11,9 +11,7 @@ import android.content.ContentValues;
 import android.database.Cursor;
 import android.net.Uri;
 
-/**
- * Created by Chris on 7/19/2014.
- */
+
 public class DbContentProvider extends ContentProvider {
     @Override
     public boolean onCreate() {

@@ -20,13 +20,6 @@ import com.przyjaznyplanDisplayer.mymodule.appmanager.Utils.RequestCodes;
 
 import java.util.ArrayList;
 
-/**
- * Templates of plan view class
- * It displays available options list
- *
- * @author Michał Smiatacz
- * @author mrwrob
- */
 public class PlanTemplatesMainView extends Activity {
     ArrayAdapter<String> adapter;
     ListView patternsListView;

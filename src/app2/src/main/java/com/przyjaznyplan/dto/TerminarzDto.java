@@ -11,9 +11,6 @@ import android.content.ContentValues;
 
 import com.przyjaznyplan.sqlCreate.Terminarz;
 
-/**
- * Created by Chris on 10/24/2014.
- */
 public class TerminarzDto extends BaseDto {
 
     public TerminarzDto(){

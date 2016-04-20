@@ -7,9 +7,6 @@
 
 package com.przyjaznyplan.utils;
 
-/**
- * Created by Michal on 2015-01-02.
- */
 public class BusinessLogic {
     public static final String SYSTEM_ACTIVITY_GALLERY_ID = "SYSTEM_GALERIA_AKTYWNOSCI";
     public static final String SYSTEM_CURRENT_PLAN_ID = "SYSTEM_AKTUALNY_PLAN";

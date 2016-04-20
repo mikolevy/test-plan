@@ -9,9 +9,7 @@ package com.przyjaznyplanDisplayer.Utils;
 
 import android.view.View;
 
-/**
- * Created by Michal on 2015-03-08.
- */
+
 public interface OnTimerClickInterface {
     public void onLongTimerClickFromAdapter(View view);
 }

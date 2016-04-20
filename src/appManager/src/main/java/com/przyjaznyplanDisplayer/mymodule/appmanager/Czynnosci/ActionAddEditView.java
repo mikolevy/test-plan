@@ -28,9 +28,6 @@ import java.util.ArrayList;
 
 import br.com.thinkti.android.filechooser.FileChooser;
 
-/**
- * Created by Michal on 2014-11-17.
- */
 public class ActionAddEditView extends Activity {
     int mode;
     private Slide slide;

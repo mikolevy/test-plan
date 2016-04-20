@@ -29,10 +29,6 @@ import java.util.Comparator;
 
 import java.util.Locale;
 
-
-/**
- * Created by chris on 29.12.14.
- */
 public class UserAdapter extends ArrayAdapter<User> {
 
     private ArrayList<User> objects;

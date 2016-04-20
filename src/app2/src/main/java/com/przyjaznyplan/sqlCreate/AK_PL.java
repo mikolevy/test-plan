@@ -6,9 +6,6 @@
  */
 package com.przyjaznyplan.sqlCreate;
 
-/**
- * Created by Chris on 10/21/2014.
- */
 public final class AK_PL extends BaseSQL {
 
     public static final String TABLE_NAME="AK_PL";

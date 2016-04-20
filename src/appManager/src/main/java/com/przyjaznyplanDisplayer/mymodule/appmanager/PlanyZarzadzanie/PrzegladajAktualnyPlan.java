@@ -9,8 +9,5 @@ package com.przyjaznyplanDisplayer.mymodule.appmanager.PlanyZarzadzanie;
 
 import android.app.Activity;
 
-/**
- * Created by Michal on 2014-12-27.
- */
 public class PrzegladajAktualnyPlan extends Activity {
 }

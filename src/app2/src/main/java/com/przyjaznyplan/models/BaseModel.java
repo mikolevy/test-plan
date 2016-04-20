@@ -8,8 +8,5 @@ package com.przyjaznyplan.models;
 
 import java.io.Serializable;
 
-/**
- * Created by Chris on 10/25/2014.
- */
 public class BaseModel implements Serializable {
 }

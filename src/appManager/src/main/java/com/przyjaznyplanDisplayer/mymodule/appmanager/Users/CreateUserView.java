@@ -37,9 +37,6 @@ import static com.przyjaznyplan.models.TypyWidokuAktywnosci.big;
 import static com.przyjaznyplan.models.TypyWidokuAktywnosci.medium;
 import static com.przyjaznyplan.models.TypyWidokuAktywnosci.small;
 
-/**
- * Created by chris on 29.12.14.
- */
 public class CreateUserView extends Activity {
 
     private TextView timerPath;

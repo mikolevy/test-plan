@@ -27,9 +27,6 @@ import com.przyjaznyplan.sqlCreate.Uzytkownik;
 
 import java.util.ArrayList;
 
-/**
- * Created by Chris on 10/24/2014.
- */
 public class UserDao extends AbstractDao<UserDto> {
 
 

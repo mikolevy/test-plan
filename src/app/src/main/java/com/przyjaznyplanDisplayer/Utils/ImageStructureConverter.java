@@ -13,9 +13,7 @@ import java.io.File;
 import java.util.Collections;
 import java.util.Comparator;
 
-/**
- * Created by Chris on 7/24/2014.
- */
+
 //TODO poprawic malo pilne
 public class ImageStructureConverter extends StructureConverter {
 

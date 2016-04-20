@@ -15,9 +15,6 @@ import android.database.sqlite.SQLiteDatabase;
 
 import com.przyjaznyplan.interfaces.DaoSql;
 
-/**
- * Created by Chris on 10/24/2014.
- */
 
 public abstract class AbstractDao<T> implements DaoSql<T>{
 

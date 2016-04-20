@@ -42,9 +42,7 @@ import com.przyjaznyplan.utils.BusinessLogic;
 
 import java.util.List;
 
-/**
- * Created by chris on 04.01.15.
- */
+
 public class BasicActivityView extends Activity implements View.OnLongClickListener{
 
     //

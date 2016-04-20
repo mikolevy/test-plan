@@ -29,13 +29,6 @@ import com.przyjaznyplanDisplayer.mymodule.appmanager.Utils.RequestCodes;
 
 import java.util.List;
 
-/**
- * Add activities to the plan template view class
- * Allows to add selected activities to plan template
- *
- * @author Michał Smiatacz
- * @author mrwrob
- */
 public class ActivityFindView extends Activity implements AdapterView.OnItemClickListener {
     private ActivitySimpleAdapter listAdapter;
     private ListView mainListView;

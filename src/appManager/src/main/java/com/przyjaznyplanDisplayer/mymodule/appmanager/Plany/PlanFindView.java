@@ -28,9 +28,6 @@ import com.przyjaznyplanDisplayer.mymodule.appmanager.Utils.RequestCodes;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Michal on 2014-12-27.
- */
 public class PlanFindView extends Activity implements AdapterView.OnItemClickListener {
 
     private ListView mainListView ;

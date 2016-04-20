@@ -29,13 +29,6 @@ import com.przyjaznyplanDisplayer.mymodule.appmanager.Utils.RequestCodes;
 
 import java.util.ArrayList;
 
-/**
- * Plan templates edit view class
- * It displays editing plan templates
- *
- * @author Michał Smiatacz
- * @author mrwrob
- */
 public class PlanEditView extends Activity  {
     private int mode;
 

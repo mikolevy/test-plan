@@ -6,9 +6,6 @@
  */
 package com.przyjaznyplan.models;
 
-/**
- * Created by chris on 12.01.15.
- */
 public enum  TypyWidokuPlanuAktywnosci {
 
     list("lista"),

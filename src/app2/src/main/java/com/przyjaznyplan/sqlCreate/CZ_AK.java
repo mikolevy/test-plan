@@ -7,9 +7,6 @@
 
 package com.przyjaznyplan.sqlCreate;
 
-/**
- * Created by Chris on 10/21/2014.
- */
 public final class CZ_AK extends BaseSQL{
 
     public static final String TABLE_NAME="CZ_AK";

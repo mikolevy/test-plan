@@ -32,13 +32,6 @@ import java.util.ArrayList;
 
 import br.com.thinkti.android.filechooser.FileChooser;
 
-/**
- * Add new activity to the plan template view class
- * Allows to define new activity and add it to the plan tamplate
- *
- * @author Michał Smiatacz
- * @author mrwrob
- */
 public class ActivityEditView extends Activity {
     private String pathToPicture;
     private com.przyjaznyplan.models.Activity planActivity;

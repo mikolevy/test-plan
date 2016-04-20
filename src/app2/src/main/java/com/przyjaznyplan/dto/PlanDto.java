@@ -11,9 +11,6 @@ import android.content.ContentValues;
 
 import com.przyjaznyplan.models.Plan;
 
-/**
- * Created by Chris on 10/24/2014.
- */
 public class PlanDto extends BaseDto {
 
     public PlanDto(){

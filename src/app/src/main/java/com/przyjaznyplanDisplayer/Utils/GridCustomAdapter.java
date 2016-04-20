@@ -36,9 +36,7 @@ import java.util.Hashtable;
 import java.util.List;
 import java.util.UUID;
 
-/**
- * Created by Michal on 2014-11-13.
- */
+
 public class GridCustomAdapter extends ArrayAdapter<Activity> {
     private List<Activity> objects;
     private Hashtable<String,Bitmap> bitmaps;

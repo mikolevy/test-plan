@@ -7,9 +7,6 @@
 
 package com.przyjaznyplan.sqlCreate;
 
-/**
- *
- */
 public final class Plan extends BaseSQL{
 
     public static final String TABLE_NAME="PLAN";

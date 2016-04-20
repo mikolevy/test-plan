@@ -38,9 +38,6 @@ import java.util.List;
 
 import au.com.bytecode.opencsv.CSVReader;
 
-/**
- * Created by Chris on 7/24/2014.
- */
 
 public final class CsvConverter {
 

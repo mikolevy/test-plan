@@ -23,9 +23,6 @@ import com.przyjaznyplanDisplayer.mymodule.appmanager.Utils.SlidesAdapter;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Michal on 2014-11-17.
- */
 public class ActionList extends Activity {
     private SlidesAdapter listAdapter ;
     private com.przyjaznyplan.models.Activity activity;

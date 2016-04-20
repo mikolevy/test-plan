@@ -12,9 +12,6 @@ import android.content.ContentValues;
 import com.przyjaznyplan.models.Activity;
 import com.przyjaznyplan.sqlCreate.Aktywnosc;
 
-/**
- * Created by Chris on 10/24/2014.
- */
 public class ActivityDto extends BaseDto {
 
     private Activity activity;

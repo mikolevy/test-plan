@@ -25,9 +25,6 @@ import com.przyjaznyplan.utils.BusinessLogic;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Chris on 10/24/2014.
- */
 public class ActivityDao extends AbstractDao<ActivityDto> {
 
     public ActivityDao(SQLiteDatabase db){

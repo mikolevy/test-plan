@@ -11,9 +11,6 @@ import android.content.ContentValues;
 import com.przyjaznyplan.sqlCreate.Czynnosc;
 import com.przyjaznyplan.models.Slide;
 
-/**
- * Created by Chris on 10/24/2014.
- */
 public class SlideDto extends  BaseDto {
 
     public Slide getSlide() {

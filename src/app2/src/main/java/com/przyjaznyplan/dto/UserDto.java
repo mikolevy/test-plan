@@ -13,9 +13,6 @@ import com.przyjaznyplan.models.User;
 import com.przyjaznyplan.models.UserPreferences;
 import com.przyjaznyplan.sqlCreate.Uzytkownik;
 
-/**
- * Created by Chris on 10/24/2014.
- */
 public class UserDto extends BaseDto {
 
     private User user;

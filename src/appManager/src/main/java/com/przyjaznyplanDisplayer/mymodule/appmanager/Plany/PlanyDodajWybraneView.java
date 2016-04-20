@@ -25,9 +25,6 @@ import com.przyjaznyplanDisplayer.mymodule.appmanager.Utils.RequestCodes;
 
 import java.util.ArrayList;
 
-/**
- * Created by Michal on 2015-04-23.
- */
 public class PlanyDodajWybraneView extends Activity implements AdapterView.OnItemClickListener {
 
     private Plan plan;

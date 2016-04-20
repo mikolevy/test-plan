@@ -13,9 +13,6 @@ import android.view.WindowManager;
 
 import com.przyjaznyplanDisplayer.mymodule.appmanager.R;
 
-/**
- * Created by Michal on 2015-04-27.
- */
 public class AboutView extends android.app.Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {

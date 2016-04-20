@@ -9,9 +9,7 @@ package com.przyjaznyplanDisplayer;
 
 import android.app.Activity;
 
-/**
- * Created by M on 2014-08-01.
- */
+
 public class TimerThread extends Activity implements Runnable{
 
     private ActivityView activity;

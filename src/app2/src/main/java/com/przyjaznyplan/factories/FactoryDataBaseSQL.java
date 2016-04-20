@@ -20,9 +20,6 @@ import com.przyjaznyplan.sqlCreate.UST_USER;
 import com.przyjaznyplan.sqlCreate.UstawieniaUzytkownika;
 import com.przyjaznyplan.sqlCreate.Uzytkownik;
 
-/**
- * Created by Chris on 10/24/2014.
- */
 public class FactoryDataBaseSQL {
     public FactoryDataBaseSQL(){
 

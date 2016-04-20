@@ -35,11 +35,6 @@ import com.przyjaznyplanDisplayer.mymodule.appmanager.Utils.UserAdapter;
 
 import java.util.ArrayList;
 
-
-
-/**
- * Created by chris on 29.12.14.
- */
 public class UserListView extends Activity implements  TextWatcher, AdapterView.OnItemClickListener{
 
     private UserDao userDao;

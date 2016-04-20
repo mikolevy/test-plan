@@ -31,13 +31,6 @@ import com.przyjaznyplanDisplayer.mymodule.appmanager.Utils.RequestCodes;
 
 import java.util.ArrayList;
 
-/**
- * Current Plan edit view class
- * Allow to select current plan
- *
- * @author Michał Smiatacz
- * @author mrwrob
- */
 public class PlanCurrentEditView extends Activity implements AdapterView.OnItemClickListener {
     private Plan plan;
     private PlanDao planDao;

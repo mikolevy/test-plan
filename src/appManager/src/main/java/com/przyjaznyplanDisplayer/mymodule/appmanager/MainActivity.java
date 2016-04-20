@@ -28,8 +28,6 @@ import java.util.ArrayList;
  * Root view class for FriendlyPlanManager app.
  * It displays list with all possible options.
  *
- * @author Michał Smiatacz
- * @author mrwrob
  */
 public class MainActivity extends Activity {
     ArrayAdapter<String> adapter;

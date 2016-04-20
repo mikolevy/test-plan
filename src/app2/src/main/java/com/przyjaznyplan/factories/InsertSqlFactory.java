@@ -17,9 +17,6 @@ import com.przyjaznyplan.utils.CsvConverter;
 
 import java.io.FileNotFoundException;
 
-/**
- * Created by Chris on 10/27/2014.
- */
 public class InsertSqlFactory {
     public InsertSqlFactory(){
 

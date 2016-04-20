@@ -7,9 +7,6 @@
 
 package com.przyjaznyplan.sqlCreate;
 
-/**
- * Created by Chris on 10/21/2014.
- */
 public final class Uzytkownik extends BaseSQL {
 
     public static final String TABLE_NAME="UZYTKOWNIK";

@@ -6,9 +6,6 @@
  */
 package com.przyjaznyplan.sqlCreate;
 
-/**
- * Created by chris on 30.12.14.
- */
 public class ChoosenUser extends BaseSQL {
 
     public static final String TABLE_NAME="CHOOSEN_USER";

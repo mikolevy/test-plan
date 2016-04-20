@@ -9,9 +9,6 @@ package com.przyjaznyplan.models;
 
 import java.util.List;
 
-/**
- * Created by Chris on 10/26/2014.
- */
 public class Activity extends BaseModel {
 
     private String id;

@@ -21,13 +21,6 @@ import com.przyjaznyplanDisplayer.mymodule.appmanager.Utils.RequestCodes;
 
 import java.util.ArrayList;
 
-/**
- * Add activity to the plan template view class
- * Allows to add new activity to plan template
- *
- * @author Michał Smiatacz
- * @author mrwrob
- */
 public class PlanAddActivityView extends Activity {
     private Integer mode;
     ArrayAdapter<String> adapter;

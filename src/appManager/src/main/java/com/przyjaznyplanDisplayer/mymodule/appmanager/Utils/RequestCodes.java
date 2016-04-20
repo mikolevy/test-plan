@@ -6,9 +6,6 @@
  */
 package com.przyjaznyplanDisplayer.mymodule.appmanager.Utils;
 
-/**
- * Created by Michal on 2014-12-26.
- */
 public class RequestCodes {
     public static final int ACTIVITY_ADDED = 1;
     public static final int ACTIVITY_EDITED = 2;

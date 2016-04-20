@@ -8,9 +8,6 @@ package com.przyjaznyplanDisplayer.data;
 
 import java.io.File;
 
-/**
- * Created by Chris on 10/24/2014.
- */
 public class MyFile extends File {
 
     private String dbname;

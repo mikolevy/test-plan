@@ -6,9 +6,6 @@
  */
 package com.przyjaznyplan.models;
 
-/**
- * Created by Chris on 10/26/2014.
- */
 public class Slide extends BaseModel {
     private String id;
     private long settingsId;

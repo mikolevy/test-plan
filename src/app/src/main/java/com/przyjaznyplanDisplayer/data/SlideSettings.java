@@ -8,9 +8,6 @@ package com.przyjaznyplanDisplayer.data;
 
 import java.io.Serializable;
 
-/**
- * Created by Chris on 8/5/2014.
- */
 @Deprecated
 public class SlideSettings implements Serializable {
     private int id;

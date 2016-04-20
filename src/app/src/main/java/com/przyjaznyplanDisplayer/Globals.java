@@ -17,9 +17,7 @@ import com.przyjaznyplan.models.User;
 import com.przyjaznyplan.models.UserPreferences;
 
 
-/**
- * Created by chris on 02.01.15.
- */
+
 public class Globals {
 
     public static final String DEFAULT_USER_NAME="default";

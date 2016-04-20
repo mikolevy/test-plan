@@ -31,9 +31,6 @@ import com.przyjaznyplanDisplayer.mymodule.appmanager.R;
 import java.lang.ref.WeakReference;
 import java.util.List;
 
-/**
- * Created by Michal on 2014-12-26.
- */
 public class ActivityAdapter extends ArrayAdapter<Activity> {
     private List<Activity> objects;
     private LayoutInflater mInflater;

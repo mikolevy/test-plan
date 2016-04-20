@@ -35,9 +35,6 @@ import br.com.thinkti.android.filechooser.FileChooser;
 
 import static com.przyjaznyplan.models.TypyWidokuAktywnosci.*;
 
-/**
- * Created by chris on 29.12.14.
- */
 public class EditUserView extends Activity {
 
     private User user;

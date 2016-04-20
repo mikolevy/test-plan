@@ -20,10 +20,6 @@ import com.przyjaznyplanDisplayer.mymodule.appmanager.Utils.RequestCodes;
 
 import java.util.ArrayList;
 
-/**
- * Created by Michal on 2014-11-16.
- * Activity management screen
- */
 public class AcitvityMainView extends Activity {
     ArrayAdapter<String> adapter;
     ListView activityListView;

@@ -32,9 +32,7 @@ import com.przyjaznyplan.utils.BusinessLogic;
 import com.przyjaznyplanDisplayer.Utils.OnTimerClickInterface;
 import com.przyjaznyplanDisplayer.Utils.SlideAdvViewAdapter;
 
-/**
- * Created by chris on 02.01.15.
- */
+
 public class AdvancedActivityView extends Activity implements AdapterView.OnItemClickListener, OnTimerClickInterface {
 
     private SlideAdvViewAdapter adapter;

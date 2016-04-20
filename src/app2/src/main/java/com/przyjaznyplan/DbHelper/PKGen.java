@@ -9,9 +9,6 @@ package com.przyjaznyplan.DbHelper;
 
 import java.util.UUID;
 
-/**
- * Created by chris on 30.12.14.
- */
 public class PKGen {
 
     public static String GenPK(){

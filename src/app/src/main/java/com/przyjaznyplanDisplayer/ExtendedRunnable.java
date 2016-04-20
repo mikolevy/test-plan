@@ -8,9 +8,7 @@ package com.przyjaznyplanDisplayer;
 
 import android.view.View;
 
-/**
- * Created by chris on 03.01.15.
- */
+
 public abstract class ExtendedRunnable implements Runnable {
 
 

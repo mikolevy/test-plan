@@ -6,9 +6,6 @@
  */
 package com.przyjaznyplan.models;
 
-/**
- * Created by Chris on 10/25/2014.
- */
 public class User extends BaseModel {
     private String id;
     private String name;

@@ -10,9 +10,6 @@ package com.przyjaznyplan.sqlCreate;
 
 import com.przyjaznyplan.interfaces.SqlCreate;
 
-/**
- * Created by Chris on 10/21/2014.
- */
 
 /**
  * Base class for SQL classes

@@ -9,12 +9,6 @@ package com.przyjaznyplan.models;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Plan model class
- *
- * @author Michał Smiatacz
- * @author mrwrob
- */
 public class Plan extends BaseModel {
     private String id;
     private String title;

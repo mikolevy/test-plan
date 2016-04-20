@@ -6,9 +6,6 @@
  */
 package com.przyjaznyplan.interfaces;
 
-/**
- * Created by Chris on 10/21/2014.
- */
 public interface SqlCreate {
     String createSql();
 }

@@ -21,9 +21,6 @@ import com.przyjaznyplanDisplayer.mymodule.appmanager.Utils.ActivitySimpleAdapte
 
 import java.util.ArrayList;
 
-/**
- * Created by Michal on 2015-04-23.
- */
 public class PlanyDodawanieGAPrzerwy extends Activity implements AdapterView.OnItemClickListener {
     private ArrayList<com.przyjaznyplan.models.Activity> wybrane;
     private ActivitySimpleAdapter listAdapter;

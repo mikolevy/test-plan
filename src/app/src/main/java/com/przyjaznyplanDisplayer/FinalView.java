@@ -22,10 +22,7 @@ import android.widget.Toast;
 import com.example.przyjaznyplan.*;
 import com.example.przyjaznyplan.R;
 
-/**
- * Created by Michal on 2015-01-14.
- * Final screen appears when all activates are finished.
- */
+
 public class FinalView extends Activity {
 
     // Variables for triple tap
